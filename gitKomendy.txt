@@ -1,0 +1,11 @@
+Konfiguracja:
+git config --global user.name "Your Name"
+git config --global user.email your_email_address@example.com
+Sprawdzenie ustawień: git config –list
+Klinowanie repozytorium: git clone <link_do_repozytorium>
+Wejście do folderu: cd <nazwaFolderu>
+Wejście do dwóch folderów niżej: <nazwaFolderu>/<nazwaFolderu2>
+Sprawdzenie zawartości folderu: ls -a
+Wyjście z folderu poziom wyżej: cd .. 
+Zatrzymanie komendy: CTRL + C
+Wklejanie treści: CTRL + PPM (prawy przycisk myszy) -> Paste
