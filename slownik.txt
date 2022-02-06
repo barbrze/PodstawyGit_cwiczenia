@@ -1,1 +1,3 @@
 Słownik pojęć związanych z systemem kontroli wersji:
+Commit (zmiana) – dokonanie zmiany w projekcie; zapisanie zmiany w bazie danych systemu kontroli wersji, może zostać włączona do przyszłych wydań projektu
+master - stabilna gałąź kodu produkcyjnego
